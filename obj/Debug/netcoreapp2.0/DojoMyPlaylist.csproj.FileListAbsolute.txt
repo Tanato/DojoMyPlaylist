@@ -1,0 +1,10 @@
+D:\projects\DojoMyPlaylist\bin\Debug\netcoreapp2.0\DojoMyPlaylist.deps.json
+D:\projects\DojoMyPlaylist\bin\Debug\netcoreapp2.0\DojoMyPlaylist.runtimeconfig.json
+D:\projects\DojoMyPlaylist\bin\Debug\netcoreapp2.0\DojoMyPlaylist.runtimeconfig.dev.json
+D:\projects\DojoMyPlaylist\bin\Debug\netcoreapp2.0\DojoMyPlaylist.dll
+D:\projects\DojoMyPlaylist\bin\Debug\netcoreapp2.0\DojoMyPlaylist.pdb
+D:\projects\DojoMyPlaylist\obj\Debug\netcoreapp2.0\DojoMyPlaylist.csproj.CoreCompileInputs.cache
+D:\projects\DojoMyPlaylist\obj\Debug\netcoreapp2.0\DojoMyPlaylist.AssemblyInfoInputs.cache
+D:\projects\DojoMyPlaylist\obj\Debug\netcoreapp2.0\DojoMyPlaylist.AssemblyInfo.cs
+D:\projects\DojoMyPlaylist\obj\Debug\netcoreapp2.0\DojoMyPlaylist.dll
+D:\projects\DojoMyPlaylist\obj\Debug\netcoreapp2.0\DojoMyPlaylist.pdb
