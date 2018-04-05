@@ -12,13 +12,11 @@ namespace DojoMyPlaylist.Controllers
         [HttpGet("{filter}")]
         public Playlist Get(string user)
         {
-            var usuarioId = Guid.NewGuid();
+            var playlistId = Guid.NewGuid();
             var result = new Playlist
             {
                 Id = Guid.NewGuid(),
-                UsuarioId = usuarioId,
-                Usuario = new Usuario { Id = usuarioId, Nome = "Tanato" },
-                Musicas = new List<Musica>(),
+                PlaylistMusicas = new List<PlaylistMusica>(),
             };
 
             return result;
