@@ -5,9 +5,9 @@ namespace DojoMyPlaylist
 {
     public class PlaylistMusica
     {
-        public Guid PlaylistId { get; set; }
+        public string PlaylistId { get; set; }
         public Playlist Playlist { get; set; }
-        public Guid MusicaId { get; set; }
+        public string MusicaId { get; set; }
         public Musica Musica { get; set; }
     }
 }
